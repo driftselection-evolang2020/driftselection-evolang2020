@@ -1,7 +1,11 @@
 ---
 title: "Drift, selection, change, and shift"
 author: "Workshop @ Evolang 2020"
-output: html_document
+output: 
+  html_document: 
+    theme: spacelab
+    toc: yes
+    toc_float: true
 ---
 
 
@@ -25,11 +29,11 @@ Contact: driftselection.evolang2020 @ gmail.com
 
 ## Call for papers
 
-### Timeline
+**Timeline**
  
 ---
 
-### References
+## References
 
 <font size="1">
 Abrams, D. M., & Strogatz, S. H. (2003). Modelling the dynamics of language death. Nature, 424, 900.<br>
