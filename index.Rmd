@@ -17,7 +17,8 @@ Selective advantage of a variant may rise from various sources, such as sociolin
 
 Competition may be viewed as operating within but also between languages, the former leading to the replacement of communicative variants, the latter to the extinction of entire languages. Signatures of innovation, selection and competition should be inferable from the usage statistics alone, given adequately large and representative diachronic data. This is an idea that has been explored in the domain of language change (Reali & Griffiths 2010; Blythe 2012; Sindi & Dale 2016; Newberry et al. 2017; Amato et al. 2018; Grieve et al. 2018), cultural evolution (Hahn & Bentley 2003; Kandler & Crema 2019) as well as inter-language competition (Abrams & Strogatz 2003; Zhang & Gong 2013; Kandler & Steele 2017). Selection for communicative variants and languages to use takes place on the level of the individual, but historical data often consists of only imperfect aggregate samples from the population, presenting problems for inference (Pechenick et al. 2015; de Smet 2016; Fonteyn 2017; Petré & Van de Velde 2018; Kandler et al. 2017).
 
-These topics are highly interrelated, but the research is spread across multiple disciplines including linguistics, biology, physics, mathematics and computer science. The goal of this workshop is to bring together researchers working on various aspects of these issues, including the interplay of drift and selection in language change, success of innovations and borrowings, and competition dynamics both within and between languages. We welcome contributions dealing with (but not limited to) methods of identifying these processes, issues regarding data (corpora, censuses, surveys, assemblages, etc.), empirical investigations as well as modelling results.
+These topics are highly interrelated, but the research is spread across multiple disciplines including linguistics, biology, physics, mathematics and computer science. The goal of this workshop is to bring together researchers working on various aspects of these issues, including the interplay of drift and selection in language change, success of innovations and borrowings, and competition dynamics both within and between languages. <br>
+We welcome contributions dealing with (but not limited to) methods of identifying these processes, issues regarding data (corpora, censuses, surveys, assemblages, etc.), empirical investigations as well as modelling results.
 
 ## Organizers
 
@@ -25,12 +26,21 @@ Andres Karjus (University of Edinburgh)<br>
 Jack Grieve (University of Birmingham)<br>
 Anne Kandler (Max Planck Institute for Evolutionary Anthropology)
 
-Contact: driftselection.evolang2020 @ gmail.com
+## Submission
 
-## Call for papers
+Please send a 1-page abstract to driftselection.evolang2020 (@) gmail.com.
 
-**Timeline**
- 
+(more info soon)
+
+**Tentative timeline**
+
+- 15.09.2019 Evolang main conference deadline
+- 01.12.2019 Evolang announces results of their abstract review
+- **20.12.2019 Submission deadline for our workshop**
+- 31.01.2020 Results of our workshop's abstract review
+- 14.04.2020 Evolang begins
+
+
 ---
 
 ## References
@@ -76,7 +86,7 @@ Sindi, S. S., & Dale, R. (2016). Culturomics as a data playground for tests of s
 Smith, K., Tamariz, M., & Kirby, S. (2013). Linguistic structure is an evolutionary trade-off between simplicity and expressivity. In Proceedings of Cogsci 2013 (pp. 1348–1353)<br>
 Stadler, K., Blythe, R. A., Smith, K., & Kirby, S. (2016). Momentum in Language Change: A Model of Self-Actuating S-shaped Curves. Language Dynamics and Change, 6(2), 171–198.<br>
 Steels, L., & Szathmáry, E. (2018). The evolutionary dynamics of language. Biosystems, 164, 128–137.<br>
-Stewart, I., & Eisenstein, J. (2018). Making “fetch” happen: The influence of social and linguistic context on nonstandard word growth and decline. Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, 4360–4370.<br>
+Stewart, I., & Eisenstein, J. (2018). Making "fetch happen: The influence of social and linguistic context on nonstandard word growth and decline. Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, 4360–4370.<br>
 Turney, Peter D. AND Mohammad, S. M. (2019). The natural selection of words: Finding the features of fitness. PLOS ONE, 14(1), 1–20.<br>
 Van de Velde, F. (2014). Degeneracy: the maintenance of constructional networks. In The extending scope of construction grammar (Vol. 54, pp. 141–179).<br>
 Winter, B., & Wedel, A. (2016). The Co-evolution of Speech and the Lexicon: The Interaction of Functional Pressures, Redundancy, and Category Variation. Topics in Cognitive Science, 8(2), 503–513.<br>
