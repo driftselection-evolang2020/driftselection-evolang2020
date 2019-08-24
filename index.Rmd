@@ -8,9 +8,14 @@ output:
     toc_float: true
 ---
 
+<br>
 
-## Workshop description
- 
+
+
+## What is this all about?
+
+<div style="text-align: justify;"> 
+
 Language change, like other evolutionary processes, involves both directed selection as well as stochastic drift (Sapir 1921; Jespersen 1922; Andersen 1987; McMahon 1994; Croft 2000; Baxter et al. 2006; Van de Velde 2014; Steels & Szathmáry 2018).
 
 Selective advantage of a variant may rise from various sources, such as sociolinguistic prestige of competing variants (Labov 2011; Hernández-Campoy & Conde-Silvestre 2012), culture-specific communicative need (Regier et al. 2016, Gibson et al. 2017, Karjus et al. to appear), dissemination across domains (Altmann et al. 2011; Stewart & Eisenstein 2018), momentum (Stadler et al. 2016), conscious language planning actions (Ghanbarnejad et al. 2014; Daoust 2017), an interplay of exogenous and endogenous factors (Cuskley et al. 2014), cognitive biases (Smith et al. 2013; Winter & Wedel 2016; Culbertson 2017) or simply the form of a variant in terms of length (Zipf 1949; Kanwal et al. 2017) and iconicity (Dingemanse et al. 2015). Additionally, various usage and acquisition properties have been shown to predictors of success (Kershaw et al. 2016; Calude et al. 2017; Grieve 2018; Roberts & Monaghan 2019; Turney et al. 2019).
@@ -20,11 +25,7 @@ Competition may be viewed as operating within but also between languages, the fo
 These topics are highly interrelated, but the research is spread across multiple disciplines including linguistics, biology, physics, mathematics and computer science. The goal of this workshop is to bring together researchers working on various aspects of these issues, including the interplay of drift and selection in language change, success of innovations and borrowings, and competition dynamics both within and between languages. <br>
 We welcome contributions dealing with (but not limited to) methods of identifying these processes, issues regarding data (corpora, censuses, surveys, assemblages, etc.), empirical investigations as well as modelling results.
 
-## Organizers
-
-Andres Karjus (University of Edinburgh)<br>
-Jack Grieve (University of Birmingham)<br>
-Anne Kandler (Max Planck Institute for Evolutionary Anthropology)
+</div>
 
 ## Submission
 
@@ -39,6 +40,16 @@ Please send a 1-page abstract to driftselection.evolang2020 (@) gmail.com.
 - **20.12.2019 Submission deadline for our workshop**
 - 31.01.2020 Results of our workshop's abstract review
 - 14.04.2020 Evolang begins
+
+
+## Organizers
+
+Andres Karjus (University of Edinburgh)<br>
+Jack Grieve (University of Birmingham)<br>
+Anne Kandler (Max Planck Institute for Evolutionary Anthropology)
+
+<br>
+
 
 
 ---
@@ -68,9 +79,9 @@ Hahn, M. W., & Bentley, R. A. (2003). Drift as a mechanism for cultural change: 
 Hernández-Campoy, J. M., & Conde-Silvestre, J. C. (2012). The handbook of historical sociolinguistics. John Wiley & Sons.<br>
 Jespersen, O. (1922). Language, its nature, development, and origin. H. Holt.<br>
 Kandler, A., & Crema, E. R. (2019). Analysing Cultural Frequency Data: Neutral Theory and Beyond. In A. M. Prentiss (Ed.), Handbook of Evolutionary Research in Archaeology (pp. 83–108).<br>
-Kandler, A., Unger, R., & Steele, J. (2010). Language shift, bilingualism and the future of Britain’s Celtic languages. Philosophical Transactions of the Royal Society B: Biological Sciences, 365(1559), 3855–3864.<br>
-Kandler, A., Wilder, B., & Fortunato, L. (2017). Inferring individual-level processes from population-level patterns in cultural evolution. Royal Society Open Science, 4(9).<br>
-Kanwal, J., Smith, K., Culbertson, J., & Kirby, S. (2017). Zipf’s Law of Abbreviation and the Principle of Least Effort: Language users optimise a miniature lexicon for efficient communication. Cognition, 165, 45–52.<br>
+Kandler, A., Unger, R., & Steele, J. (2010). Language shift, bilingualism and the future of Britain's Celtic languages. Philosophical Transactions of the Royal Society B: Biological Sciences, 365(1559), 3855–3864.<br>
+Kandler, A., Wilder, B., & Fortunato, L. (2017). Inferring individual-level processes from population-level patterns in cultural evolution. Royal Society Open Science, 4(9). <br>
+Kanwal, J., Smith, K., Culbertson, J., & Kirby, S. (2017). Zipf's Law of Abbreviation and the Principle of Least Effort: Language users optimise a miniature lexicon for efficient communication. Cognition, 165, 45–52.<br>
 Karjus, A., Blythe, R. A., Kirby, S., & Smith, K. (to appear). Quantifying the dynamics of topical fluctuations in language. Language Dynamics and Change<br>
 Kershaw, D., Rowe, M., & Stacey, P. (2016). Towards Modelling Language Innovation Acceptance in Online Social Networks. Proceedings of the Ninth ACM International Conference on Web Search and Data Mining, 553–562.<br>
 Labov, W. (2011). Principles of Linguistic Change, Volume 3: Cognitive and Cultural Factors.<br>
@@ -94,3 +105,4 @@ Zhang, M., & Gong, T. (2013). Principles of parametric estimation in modeling la
 Zipf, G. K. (1949). Human behavior and the principle of least effort: an introduction to human ecology. Addison-Wesley Press.
 
 </font>
+
