@@ -10,7 +10,17 @@ output:
 
 <br>
 
-**Update: due to a technical mishap, we've lost access to the initially set up workshop email account, so we set up a new one (driftselection2020 (@) gmail.com). <br>If you sent an email before September 24 and did not receive a reply or a confirmation of your abstract having being received, kindly please re-send the email. <br>Sorry for the invconvenience.**
+## Confirmed speakers
+
+- Anne Kandler, Inferring processes of social learning from cultural frequency data
+- Andres Karjus, Richard A. Blythe, Simon Kirby & Kenny Smith, Communiative need drives lexical change: corpus and lab evidence
+- Christine Cuskley, Quantifying selection for linguistic rules: a shared mechanism for frequency-dependent - regularity phenomena in language
+- Folgert Karsdorp & Lauren Fonteyn, Gricean Maxims as Principles of Guided Selection
+- Henri Kauhanen, Grammar Competition in Neutral Learning: A Reply to Han et al. (2016)
+- Matt Spike, TBA
+- Sara Budts & Peter Petré, The tension between drift and selection in language change. Evidence from auxiliary DO
+- Theresa Matzinger & Nikolaus Ritt, Phonotactically probable word shapes represent attractors in the evolution of sound patterns
+
 
 ## What is this all about?
 
@@ -27,18 +37,10 @@ We welcome contributions dealing with (but not limited to) methods of identifyin
 
 </div>
 
-## Submission
+## Submission (ended)
 
 Please send a 1-page abstract to driftselection2020 (@) gmail.com. If you sent an abstract or a query before September 24 to the old address, please kindly resend it to this address! Sorry for the inconvenience.
 
-
-**Tentative timeline**
-
-- 15.09.2019 Evolang main conference deadline
-- 01.12.2019 Evolang announces results of their abstract review
-- **20.12.2019 Submission deadline for our workshop**
-- 31.01.2020 Results of our workshop's abstract review
-- 14.04.2020 Evolang begins
 
 
 ## Organizers
@@ -46,6 +48,7 @@ Please send a 1-page abstract to driftselection2020 (@) gmail.com. If you sent a
 Andres Karjus (University of Edinburgh)<br>
 Jack Grieve (University of Birmingham)<br>
 Anne Kandler (Max Planck Institute for Evolutionary Anthropology)
+
 
 <br>
 
