@@ -12,7 +12,9 @@ output:
 
 ## Update: Evolang cancelled
 
-Since Evolang 2020 is now [cancelled](https://brussels.evolang.org/) due to Coronavirus fears, so is our workshop. If the conference would be resurrected in a year's time, as hinted as a possibility by the organizers, we would try to reconvene the workshop as well.
+<div style="text-align: justify;"> 
+
+Update 10.03.2020: Since Evolang 2020 is now [cancelled](https://brussels.evolang.org/) due to Coronavirus fears, so is our workshop. If the conference would be resurrected in a year's time, as hinted as a possibility by the organizers, we would try to reconvene the workshop as well.
 
 ## This would have been the schedule of the workshop:
 
@@ -25,13 +27,19 @@ Since Evolang 2020 is now [cancelled](https://brussels.evolang.org/) due to Coro
 - Christine Cuskley, Quantifying selection for linguistic rules: a shared mechanism for frequency-dependent regularity phenomena in language
 - Henri Kauhanen, Caroline Heycock & Joel C. Wallenberg, Grammar Competition in Neutral Learning: A Reply to Han et al. (2016)
 
+</div>
+
 ## Organizers
 
-Andres Karjus (University of Edinburgh)<br>
-Jack Grieve (University of Birmingham)<br>
-Anne Kandler (Max Planck Institute for Evolutionary Anthropology)
+[Andres Karjus](https://andreskarjus.github.io/) (University of Edinburgh)<br>
+[Jack Grieve](https://sites.google.com/view/grievejw) (University of Birmingham)<br>
+[Anne Kandler](https://www.eva.mpg.de/ecology/staff/anne-kandler/index.html) (Max Planck Institute for Evolutionary Anthropology)
 
-## What is this all about?
+<br>
+
+---
+
+## The topic
 
 <div style="text-align: justify;"> 
 
